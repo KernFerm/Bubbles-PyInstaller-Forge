@@ -2,19 +2,31 @@
 COMING SOON !!!
 ```
 
-
 # 🧊 Bubbles PyInstaller Forge: Secure Builder
+
+**💬 Join our Discord for support & community:** [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
 
 A modern, secure, and user-friendly GUI for building Python executables with PyInstaller. Built with CustomTkinter for a beautiful and accessible experience.
 
 ## ✨ Features
 - ⚡ Real-time build progress and output
-- 🔒 Secure file selection and drag & drop support (Windows with tkinterdnd2)
 - 🔍 PyPI package search/autocomplete for hidden imports
 - 🖥️ Modern, accessible UI with keyboard navigation
 - 💾 Output log saving and 🧹 clear output button
 - 🛡️ Security checks (admin/root, world-writable dir, input validation)
 - 🚨 Error dialogs and validation for user actions
+- 🧊 No drag & drop: File selection is now via a secure button for maximum compatibility
+
+---
+
+## 🆕 What's New
+- Drag & drop support has been removed for improved stability and compatibility
+- Splash/loading screen logic improved and can be toggled as needed
+- Window centering and startup behavior fixed for better OS compatibility
+- Many bug fixes and UI improvements for a smoother experience
+- Discord support link added to the Help menu
+
+---
 
 ## 🧑‍💻 How to Use BubblesPyInstallerForge.exe (No Python Needed)
 
@@ -39,7 +51,6 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
 
 - ❓ **App won't start or GUI is blank:**
   - If you are using the .exe, you do NOT need Python installed. If you are running the .py version, make sure you are using Python 3.8 or newer (Python 3.11+ recommended).
-  - If you see errors about `tkinterdnd2`, drag & drop will be unavailable unless you install it on Windows.
 
 - ❓ **Build fails or no .exe is produced:**
   - Check the build output for error messages.
@@ -54,14 +65,11 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
   - Do not run the app as administrator/root unless necessary.
   - Avoid running from world-writable or system directories.
 
-- ❓ **Drag & drop doesn't work:**
-  - Only available on Windows with `tkinterdnd2` installed.
-  - Otherwise, use the file selection button.
-
 - ❓ **Other issues:**
   - Check the `app_security.log` file for details (if present).
   - Try running the app from a terminal/command prompt to see error messages.
   - If you need more help, open an issue or ask in the relevant Python/CustomTkinter community.
+  - **Join our Discord for help:** [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
 
 ---
 
@@ -71,4 +79,3 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
 ---
 
 **🎉 Enjoy secure, modern Python executable building with Bubbles PyInstaller Forge! 🧊**
-
