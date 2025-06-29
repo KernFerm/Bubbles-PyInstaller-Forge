@@ -65,4 +65,10 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
 
 ---
 
+> **Note:**
+> This tool is only for making Windows `.exe` applications from Python scripts using PyInstaller. It does **not** apply PyArmor or any code obfuscation to your scripts. If you want to protect or obfuscate your code, you must use PyArmor (or similar tools) on your scripts **yourself before building** with Bubbles PyInstaller Forge.
+
+---
+
 **🎉 Enjoy secure, modern Python executable building with Bubbles PyInstaller Forge! 🧊**
+
