@@ -21,7 +21,6 @@ A modern, secure, and user-friendly GUI for building Python executables with PyI
 
 ## 🆕 What's New
 - Drag & drop support has been removed for improved stability and compatibility
-- Splash/loading screen logic improved and can be toggled as needed
 - Window centering and startup behavior fixed for better OS compatibility
 - Many bug fixes and UI improvements for a smoother experience
 - Discord support link added to the Help menu
