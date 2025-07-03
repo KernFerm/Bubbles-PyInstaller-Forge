@@ -1,7 +1,3 @@
-```python
-COMING SOON !!!
-```
-
 # 🧊 Bubbles PyInstaller Forge: Secure Builder
 
 **💬 Join our Discord for support & community:** [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
@@ -78,3 +74,6 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
 ---
 
 **🎉 Enjoy secure, modern Python executable building with Bubbles PyInstaller Forge! 🧊**
+
+
+- **[Releases](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/tag/application.zip)**
