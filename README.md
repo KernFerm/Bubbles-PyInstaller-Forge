@@ -21,6 +21,7 @@ A modern, secure, and user-friendly GUI for building Python executables with PyI
 - Many bug fixes and UI improvements for a smoother experience
 - Discord support link added to the Help menu
 
+### [Download-The-Application-Here.md](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/blob/main/Download-The-Application-Here.md)
 ---
 
 ## 🧑‍💻 How to Use BubblesPyInstallerForge.exe (No Python Needed)
