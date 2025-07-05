@@ -1,1 +1,1 @@
-- [click to download](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/download/application.zip/application.zip)
+- [https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/download/application.zip/application.zip](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/download/application.zip/application.zip)
