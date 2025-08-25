@@ -1,0 +1,1 @@
+- https://github.com/KernFerm/Bubbles-PyInstaller-Forge/discussions/1#discussioncomment-14215168
