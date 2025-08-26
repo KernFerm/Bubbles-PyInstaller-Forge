@@ -1,6 +1,6 @@
 # 🧊 Bubbles PyInstaller Forge: Secure Builder
 
-**💬 Join our Discord for support & community:** [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+**💬 Join our Discord for support & community:** [https://discord.gg/zQbJJgwbUv](https://discord.gg/zQbJJgwbUv)
 
 A modern, secure, and user-friendly GUI for building Python executables with PyInstaller. Built with CustomTkinter for a beautiful and accessible experience.
 
@@ -65,7 +65,7 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
   - Check the `app_security.log` file for details (if present).
   - Try running the app from a terminal/command prompt to see error messages.
   - If you need more help, open an issue or ask in the relevant Python/CustomTkinter community.
-  - **Join our Discord for help:** [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+  - **Join our Discord for help:** [https://discord.gg/zQbJJgwbUv](https://discord.gg/zQbJJgwbUv)
 
 ---
 
@@ -78,3 +78,4 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
 
 
 - **[Releases](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/tag/application.zip)**
+
