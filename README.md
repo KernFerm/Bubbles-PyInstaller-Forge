@@ -4,7 +4,7 @@
 
 A modern, secure, and user-friendly GUI for building Python executables with PyInstaller. Built with CustomTkinter for a beautiful and accessible experience.
 
-- If you found this useful please star it. 
+- `If you found this repo useful please star it.`
 
 ## ✨ Features
 - ⚡ Real-time build progress and output
@@ -80,5 +80,6 @@ If you received only the `BubblesPyInstallerForge.exe` file (no Python script re
 
 
 - **[Releases](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/tag/application.zip)**
+
 
 
