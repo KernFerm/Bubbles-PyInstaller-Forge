@@ -1,1 +1,1 @@
-- [https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/download/application.zip/BubblesPyInstallerForge-Application.zip](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/download/application.zip/BubblesPyInstallerForge-Application.zip)
+- `Windows` [https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/download/application.zip/BubblesPyInstallerForge-Application.zip](https://github.com/KernFerm/Bubbles-PyInstaller-Forge/releases/download/application.zip/BubblesPyInstallerForge-Application.zip)
