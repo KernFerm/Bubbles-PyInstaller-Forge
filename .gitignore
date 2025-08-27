@@ -1,32 +1,12 @@
-# Bytecode, cache, and build output
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.spec
-build/
-dist/
-build_output_temp*/
+# Ignore all files and directories
+*
+.*
 
-# VSCode and OS files
-.vscode/
-.DS_Store
-Thumbs.db
+# Exception: Track git files themselves
+!.gitignore
+!.gitattributes
 
-# Logs
-*.log
-app_security.log
-
-# Environment
-.env
-.venv/
-venv/
-ENV/
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Misc
-*.bak
-*.swp
-*.tmp
+# Exception: Track specific files if needed (uncomment as required)
+# !README.md
+# !requirements.txt
+# !*.py
