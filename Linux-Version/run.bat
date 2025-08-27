@@ -24,6 +24,8 @@ if exist "..\venv\Scripts\activate.bat" (
 
 REM Install requirements if needed
 if exist "..\requirements.txt" (
+    echo Updating pip...
+    python -m pip install --upgrade pip --quiet
     echo Installing/updating requirements...
     pip install -r "..\requirements.txt" --quiet
 )
