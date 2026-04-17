@@ -1,7 +1,7 @@
-customtkinter==5.2.2
-requests==2.32.5
-pillow==12.2.0
-pyinstaller==6.18.0
-tkinterdnd2==0.4.3
-pyarmor==9.2.3
-setuptools==82.0.0
+customtkinter
+requests
+pillow
+pyinstaller
+tkinterdnd2
+pyarmor
+setuptools
